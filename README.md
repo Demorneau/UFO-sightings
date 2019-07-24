@@ -1,2 +1,1 @@
-# UFO-sightings
-Javascript
+# UFO-sittings-project

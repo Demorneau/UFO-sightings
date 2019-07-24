@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(48, 48, 193);
+    color: white;
+}
+
+.jumbotron {
+    margin:70px;
+    background-image: url(https://www.irishtimes.com/polopoly_fs/1.3695074.1542028902!/image/image.png);
+    background-size: cover;
+    color: rgb(218, 226, 228);
+    text-align: center;
+}
+
+.form-control {
+    display: -webkit-inline-box;
+    width: 300px;
+    padding-left: 2px
+    border-block-end-style: 1px dotted green
+}
+
+table {
+    table-layout: fixed;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo1G27N3qzl2hNrrv_xPyhpoiOYjpkbT1FwhEG2QQYa-MbfHjecQ);
+    background-size: 1300px;
+    color: white;
+}
